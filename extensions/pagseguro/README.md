@@ -1,0 +1,1 @@
+# pagseguro extension TastyIgniter
